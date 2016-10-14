@@ -49,3 +49,6 @@ Added new server page to be compatible with SIMPLE IPTV (https://play.google.com
 1.0.18
 Added start/stop button on config - M3U Server
 Fixed some small bugs
+
+V3
+Altered some info to prevent auto updates from wrong repo's
