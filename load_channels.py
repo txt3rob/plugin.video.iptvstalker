@@ -79,7 +79,7 @@ def getProfile(url):
 		'type' : 'stb', 
 		'action' : 'get_profile',
 		'hd' : '1',
-		'ver' : 'ImageDescription:%200.2.18-r11-pub-254;%20ImageDate:%20Wed%20Mar%2018%2018:09:40%20EET%202015;%20PORTAL%20version:%204.9.14;%20API%20Version:%20JS%20API%20version:%20331;%20STB%20API%20version:%20141;%20Player%20Engine%20version:%200x572',
+		'ver' : 'ImageDescription: 0.2.18-r14-254; ImageDate: Fri Jan 15 15:42:08 EET 2016; PORTAL version: 5.0.3; API Version: JS API version: 333; STB API version: 142;Player Engine version: 0x579',
 		'num_banks' : '1',
 		'stb_type' : 'MAG254',
 		'image_version' : '218',
