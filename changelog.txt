@@ -50,5 +50,8 @@ Added new server page to be compatible with SIMPLE IPTV (https://play.google.com
 Added start/stop button on config - M3U Server
 Fixed some small bugs
 
-V3
+V2
 Altered some info to prevent auto updates from wrong repo's
+
+V2.1
+Updated Firmware / Image Version to remove STB firmware out of date
